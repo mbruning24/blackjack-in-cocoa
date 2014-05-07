@@ -1,0 +1,9 @@
+/Users/markbruning/Desktop/C Scripts/BlackJack/card.m:16: error: no declaration of property 'cardPointValue' found in the interface
+/Users/markbruning/Desktop/C Scripts/BlackJack/card.m: In function '-[card initWithSuit:andValue:andPointValue:andFilePath:]':
+/Users/markbruning/Desktop/C Scripts/BlackJack/card.m:24: warning: 'card' may not respond to '-setCardPointValue:'
+/Users/markbruning/Desktop/C Scripts/BlackJack/card.m:24: warning: (Messages without a matching method signature
+/Users/markbruning/Desktop/C Scripts/BlackJack/card.m:24: warning: will be assumed to return 'id' and accept
+/Users/markbruning/Desktop/C Scripts/BlackJack/card.m:24: warning: '...' as arguments.)
+/Users/markbruning/Desktop/C Scripts/BlackJack/card.m: At top level:
+/Users/markbruning/Desktop/C Scripts/BlackJack/card.m:42: warning: property 'pointValue' requires method '-pointValue' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/markbruning/Desktop/C Scripts/BlackJack/card.m:42: warning: property 'pointValue' requires the method 'setPointValue:' to be defined - use @synthesize, @dynamic or provide a method implementation

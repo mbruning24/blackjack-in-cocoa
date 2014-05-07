@@ -1,0 +1,288 @@
+TBlackJack
+v7
+r0
+t388244267.048604
+cCheck dependencies
+cProcessInfoPlistFile "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Info.plist" BlackJack-Info.plist
+cCopyStringsFile "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/markbruning/Desktop/C Scripts/BlackJack/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/Qd/Qddk0MIVFrKsv1BB-9jb-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BlackJack_Prefix-emtisiakccabidgsdloeetmamsvd/BlackJack_Prefix.pch.gch BlackJack_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/main.o "/Users/markbruning/Desktop/C Scripts/BlackJack/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/BlackJackAppDelegate.o "/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJackAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/card.o "/Users/markbruning/Desktop/C Scripts/BlackJack/card.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/deckController.o "/Users/markbruning/Desktop/C Scripts/BlackJack/deckController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/hand.o "/Users/markbruning/Desktop/C Scripts/BlackJack/hand.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/MacOS/BlackJack" normal x86_64
+cTouch "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJackAppDelegate.h
+c0000000051728ED60000000000000141
+t1366462166
+s321
+i<Cocoa/Cocoa.h>
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJackAppDelegate.m
+c0000000051728ED60000000000000178
+t1366462166
+s376
+i"BlackJackAppDelegate.h"
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJack_Prefix.pch
+c0000000051728ED60000000000000095
+t1366462166
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/English.lproj/InfoPlist.strings
+c0000000051728ED6000000000000002D
+t1366462166
+s45
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/English.lproj/MainMenu.xib
+c0000000051728ED6000000000002BB81
+t1366462166
+s179073
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/BlackJack.LinkFileList
+c000000005173EB990000000000000272
+t1366551449
+s626
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/BlackJackAppDelegate.o
+t1366551465
+s21168
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/card.o
+t1366551466
+s18284
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/deckController.o
+t1366551466
+s117508
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/hand.o
+t1366551466
+s12336
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/main.o
+t1366551465
+s5008
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app
+t1366551467
+s102
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Info.plist
+t1366551449
+s892
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/MacOS/BlackJack
+t1366551466
+s76648
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/PkgInfo
+t1366551449
+s8
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1366551450
+s92
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Resources/English.lproj/MainMenu.nib
+t1366551452
+s34414
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/card.h
+c000000005172928B000000000000026A
+t1366463115
+s618
+i<Cocoa/Cocoa.h>
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/card.m
+c000000005172959D000000000000033E
+t1366463901
+s830
+i"card.h"
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/deckController.h
+c0000000051728F690000000000000AC6
+t1366462313
+s2758
+i<Cocoa/Cocoa.h>
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/deckController.m
+c00000000517339030000000000003A68
+t1366505731
+s14952
+i"deckController.h"
+i"card.h"
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/hand.h
+c00000000517295FD000000000000015A
+t1366463997
+s346
+i<Cocoa/Cocoa.h>
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/hand.m
+c000000005173394D000000000000021B
+t1366505805
+s539
+i"hand.h"
+i"card.h"
+
+N/Users/markbruning/Desktop/C Scripts/BlackJack/main.m
+c0000000051728ED600000000000000FF
+t1366462166
+s255
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Qd/Qddk0MIVFrKsv1BB-9jb-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BlackJack_Prefix-emtisiakccabidgsdloeetmamsvd/BlackJack_Prefix.pch.gch
+t1366551465
+s54265616
+
+NBlackJack-Info.plist
+c0000000051728ED600000000000003EA
+t1366462166
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies388244249#388244249#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/BlackJackAppDelegate.o "/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJackAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s388244265.633147
+e388244265.881048
+r1
+xCompileC
+xbuild/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/BlackJackAppDelegate.o
+x/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJackAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/markbruning/Desktop/C Scripts/BlackJack/BlackJackAppDelegate.m388244265#388244265#0(0"0(0#0#69"/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJackAppDelegate.m8598537568#1632"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-generated-files.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-own-target-headers.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-all-target-headers.hmap" -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-project-headers.hmap" "-F/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/include" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources/x86_64" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources" -include /var/folders/Qd/Qddk0MIVFrKsv1BB-9jb-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BlackJack_Prefix-emtisiakccabidgsdloeetmamsvd/BlackJack_Prefix.pch -c "/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJackAppDelegate.m" -o "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/BlackJackAppDelegate.o"0#
+
+CCompileC build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/card.o "/Users/markbruning/Desktop/C Scripts/BlackJack/card.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s388244265.848079
+e388244266.011976
+r1
+xCompileC
+xbuild/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/card.o
+x/Users/markbruning/Desktop/C Scripts/BlackJack/card.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/markbruning/Desktop/C Scripts/BlackJack/card.m388244265#388244266#0(0"0(0#0#53"/Users/markbruning/Desktop/C Scripts/BlackJack/card.m8600974592#1600"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-generated-files.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-own-target-headers.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-all-target-headers.hmap" -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-project-headers.hmap" "-F/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/include" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources/x86_64" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources" -include /var/folders/Qd/Qddk0MIVFrKsv1BB-9jb-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BlackJack_Prefix-emtisiakccabidgsdloeetmamsvd/BlackJack_Prefix.pch -c "/Users/markbruning/Desktop/C Scripts/BlackJack/card.m" -o "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/card.o"0#
+
+CCompileC build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/deckController.o "/Users/markbruning/Desktop/C Scripts/BlackJack/deckController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s388244265.881145
+e388244266.238355
+r1
+xCompileC
+xbuild/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/deckController.o
+x/Users/markbruning/Desktop/C Scripts/BlackJack/deckController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/markbruning/Desktop/C Scripts/BlackJack/deckController.m388244265#388244266#0(0"0(0#0#63"/Users/markbruning/Desktop/C Scripts/BlackJack/deckController.m8599832640#1620"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-generated-files.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-own-target-headers.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-all-target-headers.hmap" -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-project-headers.hmap" "-F/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/include" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources/x86_64" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources" -include /var/folders/Qd/Qddk0MIVFrKsv1BB-9jb-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BlackJack_Prefix-emtisiakccabidgsdloeetmamsvd/BlackJack_Prefix.pch -c "/Users/markbruning/Desktop/C Scripts/BlackJack/deckController.m" -o "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/deckController.o"0#
+
+CCompileC build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/hand.o "/Users/markbruning/Desktop/C Scripts/BlackJack/hand.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s388244266.012070
+e388244266.191077
+r1
+xCompileC
+xbuild/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/hand.o
+x/Users/markbruning/Desktop/C Scripts/BlackJack/hand.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/markbruning/Desktop/C Scripts/BlackJack/hand.m388244266#388244266#0(0"0(0#0#53"/Users/markbruning/Desktop/C Scripts/BlackJack/hand.m8601209888#1600"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-generated-files.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-own-target-headers.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-all-target-headers.hmap" -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-project-headers.hmap" "-F/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/include" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources/x86_64" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources" -include /var/folders/Qd/Qddk0MIVFrKsv1BB-9jb-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BlackJack_Prefix-emtisiakccabidgsdloeetmamsvd/BlackJack_Prefix.pch -c "/Users/markbruning/Desktop/C Scripts/BlackJack/hand.m" -o "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/hand.o"0#
+
+CCompileC build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/main.o "/Users/markbruning/Desktop/C Scripts/BlackJack/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s388244265.632210
+e388244265.847982
+r1
+xCompileC
+xbuild/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/main.o
+x/Users/markbruning/Desktop/C Scripts/BlackJack/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/markbruning/Desktop/C Scripts/BlackJack/main.m388244265#388244265#0(0"0(0#0#53"/Users/markbruning/Desktop/C Scripts/BlackJack/main.m8600583136#1600"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-generated-files.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-own-target-headers.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-all-target-headers.hmap" -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-project-headers.hmap" "-F/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/include" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources/x86_64" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources" -include /var/folders/Qd/Qddk0MIVFrKsv1BB-9jb-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BlackJack_Prefix-emtisiakccabidgsdloeetmamsvd/BlackJack_Prefix.pch -c "/Users/markbruning/Desktop/C Scripts/BlackJack/main.m" -o "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/markbruning/Desktop/C Scripts/BlackJack/English.lproj/MainMenu.xib"
+s388244249.960122
+e388244252.192160
+r1
+xCompileXIB
+x/Users/markbruning/Desktop/C Scripts/BlackJack/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib388244249#388244252#0(0"0(0#0#73"/Users/markbruning/Desktop/C Scripts/BlackJack/English.lproj/MainMenu.xib8600054016#396"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/markbruning/Desktop/C Scripts/BlackJack/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s388244249.947201
+e388244250.653712
+r1
+xCopyStringsFile
+x/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings388244249#388244250#0(0"0(0#0#78"/Users/markbruning/Desktop/C Scripts/BlackJack/English.lproj/InfoPlist.strings8600848160#387"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/MacOS/BlackJack" normal x86_64
+s388244266.238479
+e388244267.002122
+r1
+xLd
+x/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/MacOS/BlackJack
+xnormal
+xx86_64
+lSLF07#2@102"Link /Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/MacOS/BlackJack388244266#388244267#0(0"0(0#0#0"8601124128#602"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug" "-F/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug" -filelist "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/Objects-normal/x86_64/BlackJack.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/MacOS/BlackJack"0#
+
+CProcessInfoPlistFile "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Info.plist" BlackJack-Info.plist
+s388244249.889658
+e388244249.947103
+r1
+xProcessInfoPlistFile
+x/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Info.plist
+xBlackJack-Info.plist
+lSLF07#2@28"Process BlackJack-Info.plist388244249#388244249#0(0"0(0#0#67"/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJack-Info.plist8458375188430539776#346"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    builtin-infoPlistUtility BlackJack-Info.plist -genpkginfo "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/Qd/Qddk0MIVFrKsv1BB-9jb-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BlackJack_Prefix-emtisiakccabidgsdloeetmamsvd/BlackJack_Prefix.pch.gch BlackJack_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s388244252.192398
+e388244265.631972
+r1
+xProcessPCH
+x/var/folders/Qd/Qddk0MIVFrKsv1BB-9jb-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BlackJack_Prefix-emtisiakccabidgsdloeetmamsvd/BlackJack_Prefix.pch.gch
+xBlackJack_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BlackJack_Prefix.pch388244252#388244265#0(0"0(0#0#67"/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJack_Prefix.pch8590358656#1494"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-generated-files.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-own-target-headers.hmap" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-all-target-headers.hmap" -iquote "/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/BlackJack-project-headers.hmap" "-F/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/include" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources/x86_64" "-I/Users/markbruning/Desktop/C Scripts/BlackJack/build/BlackJack.build/Debug/BlackJack.build/DerivedSources" -c "/Users/markbruning/Desktop/C Scripts/BlackJack/BlackJack_Prefix.pch" -o /var/folders/Qd/Qddk0MIVFrKsv1BB-9jb-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BlackJack_Prefix-emtisiakccabidgsdloeetmamsvd/BlackJack_Prefix.pch.gch0#
+
+CTouch "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app"
+s388244267.002201
+e388244267.024638
+r1
+xTouch
+x/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app
+lSLF07#2@78"Touch /Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app388244267#388244267#0(0"0(0#0#0"8602713216#153"    cd "/Users/markbruning/Desktop/C Scripts/BlackJack"    /usr/bin/touch -c "/Users/markbruning/Desktop/C Scripts/BlackJack/build/Debug/BlackJack.app"0#
+
